@@ -344,7 +344,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-left: 2rem;
+  padding-left: 1rem;
 }
 
 .nav-header h2 {
