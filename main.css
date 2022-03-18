@@ -820,3 +820,34 @@ Contacts
     max-width: 600px;
   }
 }
+
+/*
+=============== 
+Footer
+===============
+*/
+
+.footer {
+  padding-bottom: 2rem;
+  background: #222;
+  display: grid;
+  place-items: center;
+}
+
+.footer .social-icons {
+  margin-bottom: 2rem;
+}
+
+.footer .social-icon {
+  color: var(--primary-500);
+}
+
+.footer .social-icon:hover {
+  color: var(--primary-700);
+}
+
+.footer p {
+  font-size: 1.25rem;
+  text-transform: capitalize;
+  color: var(--primary-400);
+}
